@@ -1,0 +1,47 @@
+body {
+	font-family: Verdana;
+	background-color: #000;
+	color: #fff;
+}
+
+
+#content {
+	background-color: #eee;
+	color: #000;
+	width: 500px;
+	margin: auto;
+	padding: 12px;
+}
+
+#projects {
+	text-align: left;
+}
+
+#projects ul {
+	list-style: none;
+}
+
+#projects ul li {
+	margin-bottom: 8px;
+}
+
+#projects ul a {
+	color: #e00;
+}
+
+#projects ul a:hover {
+	background-color: #e00;
+	color: #fff;
+}
+
+
+.centered {
+	text-align: center;
+}
+
+.desc {
+	margin-left: 12px;
+	font-size: 12px;
+	font-style: italic;
+	color: #999;
+}
