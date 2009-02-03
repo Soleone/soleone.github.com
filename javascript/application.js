@@ -4,6 +4,7 @@
 */
 
 $(document).ready(function() {
-	$("#content").roundCorners(16);
+	$("#projects").roundCorners(16);
+	$("#contact").roundCorners(16);
 });
 	
